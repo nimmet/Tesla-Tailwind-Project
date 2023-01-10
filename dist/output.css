@@ -700,6 +700,14 @@ video {
   background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/e90a341e-f9ca-4aa1-8eab-94afea118786/bvlatuR/std/2880x1800/M3-Homepage-D');
 }
 
+.bg-\[url\(\'https\:\/\/tesla-cdn\.thron\.com\/delivery\/public\/image\/tesla\/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0\/bvlatuR\/std\/2880x2400\/Desktop-ModelY\?quality\=70\'\)\] {
+  background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0/bvlatuR/std/2880x2400/Desktop-ModelY?quality=70');
+}
+
+.bg-\[url\(\'https\:\/\/tesla-cdn\.thron\.com\/delivery\/public\/image\/tesla\/dd739764-bcaa-4263-9488-8c73bc9fb046\/bvlatuR\/std\/2880x2400\/Desktop-Accessories\'\)\] {
+  background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/2880x2400/Desktop-Accessories');
+}
+
 .bg-cover {
   background-size: cover;
 }
